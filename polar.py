@@ -110,5 +110,5 @@ k = 0
 
 plt.tight_layout()
 plt.axis('off')
-plt.show()
 plt.savefig('circus.png',dpi = 480)
+plt.show()
